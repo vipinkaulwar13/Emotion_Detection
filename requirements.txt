@@ -1,0 +1,19 @@
+tensorflow>=2.13.0
+opencv-python-headless
+<<<<<<< HEAD
+opencv-contrib-python
+=======
+>>>>>>> 1ed218455478a2a9c4c7dd9c0992f9e827a46c19
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+streamlit>=1.20.0
+tensorflow-model-optimization>=0.8.0
+keras
+pillow
+streamlit-webrtc
+av
+mtcnn
+lz4
